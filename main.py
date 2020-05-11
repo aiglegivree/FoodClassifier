@@ -6,8 +6,8 @@ from PIL import Image
 
 from selenium import webdriver
 
-name = "onions"
-driver = webdriver.Firefox()
+name = "Apricot"
+driver = webdriver.Chrome()
 driver.get(f"https://duckduckgo.com/?q={name}&atb=v214-1&ia=images&iax=images")
 os.mkdir(f"images/{name}")
 images = []
