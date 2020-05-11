@@ -1,0 +1,8 @@
+--2020-05-11 17:38:24--  https://duckduckgo.com/?q=patato
+Resolving duckduckgo.com (duckduckgo.com)... 79.125.108.59
+Connecting to duckduckgo.com (duckduckgo.com)|79.125.108.59|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+index.html?q=patato: Invalid argument
+
+Cannot write to ‘index.html?q=patato’ (Success).
